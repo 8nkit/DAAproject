@@ -11,7 +11,7 @@ public class ReadTextAsString
 
   public static void main(String[] args) throws Exception
   {
-    String data = readFileAsString("C:\\Users\\pankaj\\Desktop\\test.java");
+    String data = readFileAsString("ank.txt");
     System.out.println(data);
   }
 } 
