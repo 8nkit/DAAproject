@@ -1,4 +1,4 @@
-package dijk;
+package finalproject;
 
 public class Edge{
 	  public final Vertex target;

@@ -1,10 +1,10 @@
-package dijk;
+package finalproject;
 import java.io.*;
 import java.util.*;
 
 public class Dijkstra{
 
-  public static void main(String[] arg){
+   void startdij(){
 		
 	    
 	  Dijkstra obj = new Dijkstra();

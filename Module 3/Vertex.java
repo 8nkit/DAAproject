@@ -1,4 +1,4 @@
-package dijk;
+package finalproject;
 import java.util.*;
 public class Vertex implements Comparable<Vertex>{
   public final String name;
